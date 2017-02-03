@@ -2,18 +2,18 @@
 Но написал схему.
 После главного If напишу один или несколько extentionов в else.
 
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using ClassLibraryCsharp;
-//using UpperText;
-//using Probel;
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel;
+    using System.Data;
+    using System.Drawing;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+    using System.Windows.Forms;
+    using ClassLibraryCsharp;
+    //using UpperText;
+    //using Probel;
 
 namespace WindowsFormsApplicationCsharp
 {
